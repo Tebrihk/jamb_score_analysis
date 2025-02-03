@@ -96,3 +96,5 @@ R² Score: ~0.75 (Good fit, but can be improved).
  Enhance Teacher Quality: Training programs for teachers can boost student outcomes.
  Reduce Student Travel Distance: Providing boarding or transport assistance can help.
  Encourage Parental Involvement: Higher engagement from parents leads to better student performance.
+
+ ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20prediction.JPG?raw=true)
