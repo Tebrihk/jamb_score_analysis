@@ -49,18 +49,29 @@ Assignment_completed - rate of assignment completion (1-5).
 # Exploratory Data Analysis (EDA)
  Key Findings
 1. With a correlation of 0.42 shows that study hours does not necessarily mean higher scores.
+
+   ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20study%20hours.JPG?raw=true)
 2. High attendance does not lead to higher JAMB scores with a correlation score of 0.28.
 3. Private school students perform slightly better than public school students.
      with an average score of
      public schools = 171.6
      private schools = 181.2
+   
 ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20school_type.JPG?raw=true)
    
-5. Parental involvement plays a crucial role in student success.
+4. Parental involvement plays a crucial role in student success.
      with average of
      low: 167.2
      Meduim: 172.2
      High: 188.8
+
+   ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20parent%20involvement.JPG?raw=true)
+
+   ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20learning%20resourse.JPG?raw=true)
+
+scores against other dependent columns
+
+   ![alt text](https://github.com/Tebrihk/jamb_score_analysis/blob/main/charts/jamb%20general.JPG?raw=true)
 
 # Predictive Modeling
 Using Linear Regression to predict JAMB scores based on key factors.
