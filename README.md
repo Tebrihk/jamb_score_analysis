@@ -1,6 +1,6 @@
-# jamb_score_analysis
+# Jamb_score_analysis
 
-# Project Overview
+#  Overview
 This project analyzes JAMB (Joint Admissions and Matriculation Board) exam scores of 2022 to uncover key trends, understand contributing factors, and predict future scores using machine learning. The analysis focuses on identifying patterns in student performance and providing actionable insights to improve exam results.
 
 # Key Questions Addressed
@@ -54,7 +54,9 @@ Assignment_completed - rate of assignment completion (1-5).
      with an average score of
      public schools = 171.6
      private schools = 181.2
-4. Parental involvement plays a crucial role in student success.
+
+   
+5. Parental involvement plays a crucial role in student success.
      with average of
      low: 167.2
      Meduim: 172.2
