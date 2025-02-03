@@ -54,7 +54,7 @@ Assignment_completed - rate of assignment completion (1-5).
      with an average score of
      public schools = 171.6
      private schools = 181.2
-
+![alt text](http://url/to/img.png)
    
 5. Parental involvement plays a crucial role in student success.
      with average of
